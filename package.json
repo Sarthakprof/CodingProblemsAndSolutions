@@ -1,0 +1,19 @@
+{
+  "name": "sarthak",
+  "version": "1.0.0",
+  "description": "Coding Problems and Solutions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sarthakprof/CodingProblemsAndSolutions.git"
+  },
+  "author": "sarthak srivastava -",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sarthakprof/CodingProblemsAndSolutions/issues"
+  },
+  "homepage": "https://github.com/Sarthakprof/CodingProblemsAndSolutions#readme"
+}
